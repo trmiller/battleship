@@ -23,9 +23,6 @@
       "durandal/app",
       "knockout"
     ],
-    "/javascripts/app/viewmodels/placeShips.js": [
-      "durandal/app"
-    ],
     "/javascripts/app/viewmodels/shell.js": [
       "plugins/router",
       "durandal/app"
