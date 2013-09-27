@@ -15,10 +15,16 @@
       "durandal/viewLocator",
       "durandal/system"
     ],
+    "/javascripts/app/viewmodels/createGame.js": [
+      "durandal/app"
+    ],
     "/javascripts/app/viewmodels/flickr.js": [
       "plugins/http",
       "durandal/app",
       "knockout"
+    ],
+    "/javascripts/app/viewmodels/placeShips.js": [
+      "durandal/app"
     ],
     "/javascripts/app/viewmodels/shell.js": [
       "plugins/router",
